@@ -46,7 +46,7 @@ This app aims to:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Zakeertech3/Medical_Cost_Project.git
+   git clone https://github.com/Zakeertech3/Healthcare.git
    cd Medical_Cost_Project
    ```
 
